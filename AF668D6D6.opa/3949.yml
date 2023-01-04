@@ -1,0 +1,27 @@
+segment_sources:
+  IEE1E7570:
+    type: origin_type
+    relation: translation
+    base: 7FB3
+    lang: en
+  IC4941CBC:
+    type: origin_type
+    relation: translation
+    base: FFFD
+    lang: bo
+segment_pairs:
+  5b3c12c58e4f41fb880e45d941278bf1:
+    IEE1E7570: facf4ddb26ff4492a66589c08dfd0c2b
+    IC4941CBC: 070d14f694634c7f863fb76aa6a3bde1
+  ce2f144dacbf4139bb7aeb6bf95029b5:
+    IEE1E7570: 26f7b748bc9e4ff68410c29dada1c63c
+    IC4941CBC: edb1aaa4b62e42d9890d935880f4edbb
+  df81f8ab7be4424aadd7efa5851bb473:
+    IEE1E7570: 8dfd58f63dc04f47a89c2403c319c12d
+    IC4941CBC: 54648588aba44bd3a63f9a0a7a03c665
+  70429db815cd4432897ba10ca6fac65f:
+    IEE1E7570: b67a5ecd9c8a43e6933db26af90cd464
+    IC4941CBC: eca0cc418ef64376bd6bf2020f7bc0ea
+  db7c5826206c47aabb67e384268ea746:
+    IEE1E7570: e4ea9aa358204759a1954dfc6d853cd6
+    IC4941CBC: 2ade39edfef741099a496576d5720b31

@@ -1,0 +1,19 @@
+id: AF668D6D6
+title: A Short Prayer to Chöying Dorje
+type: translation
+pechas:
+- IEE1E7570
+- IC4941CBC
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:29:50.237722
+  last_modified_at: 2023-01-04 11:29:50.237733
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IEE1E7570/7FB3: '3949'
+  IC4941CBC/FFFD: '3949'
